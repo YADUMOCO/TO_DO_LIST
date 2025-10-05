@@ -2,8 +2,11 @@
 Basic dbms project on to-do-list.
 
 run:
+
     xampp
+    
     xampp/Apache
+    
     xampp/MySQL
 
 for database:
